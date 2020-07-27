@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041225950148",
+    "firebase_url": "https://studenttracker-53937.firebaseio.com",
+    "project_id": "studenttracker-53937",
+    "storage_bucket": "studenttracker-53937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041225950148:android:75fecff726a57d4748fa91",
+        "android_client_info": {
+          "package_name": "com.example.studenttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041225950148-uetmjp9pbubtv385k7tlf9mgkv6gb5rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIN6j6WKvRfhjoE6aEaXOzM-wMyTGNZD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041225950148-uetmjp9pbubtv385k7tlf9mgkv6gb5rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
